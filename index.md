@@ -46,6 +46,7 @@ layout: default
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+[The Link to my tableau public about this heatmap](https://public.tableau.com/views/DailySP500HeatMap/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
 # Abstruct
 The S&P 500 stock heatmap created using Tableau and powered by Python's yfinance library. The heatmap offers a comprehensive visualization of the performance and correlations among the stocks comprising the S&P 500 index. This powerful tool allows investors, analysts, and financial professionals to gain valuable insights into the dynamics of the market and make informed decisions.
 # The codes that collect the data
@@ -116,3 +117,5 @@ Then we can use this SP500_heatmap_industry.csv to do the daily heatmap.
 # Visualization using the tableau
 This S&P 500 stock heatmap, inspired by a YouTuber(Dorian Banutoiu - Canonicalized), is created using Tableau. By following the techniques demonstrated by the YouTuber, I recreated the heatmap to provide a visual representation of the performance and correlations among the stocks comprising the S&P 500 index.
 
+# About the project
+This is all of my project, If you encounter any issues or have questions, please feel free to contact me via email on my home page! Thank you for considering contributing to this project! I appreciate your interest and help in making this project better.
